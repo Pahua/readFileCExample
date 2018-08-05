@@ -1,0 +1,2 @@
+# readFileCExample
+Memory allocation problem
